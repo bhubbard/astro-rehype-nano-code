@@ -5,8 +5,11 @@
 [![Chrome AI](https://img.shields.io/badge/Chrome_Built--in_AI-Gemini_Nano-4285F4.svg)](https://developer.chrome.com/docs/ai/built-in)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-3178C6.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code.brandonhubbard.com-brightgreen?logo=github)](https://code.brandonhubbard.com/astro-rehype-nano-code/)
 
 > Combined Astro integration and Rehype plugin that inspects markdown code blocks at build time and wires them for **on-demand, on-device AI explanations** using Chrome Built-in AI (Gemini Nano) with **zero initial JS bloat**.
+
+> 🎮 **Live Interactive Visualizer & Demo:** [astro-rehype-nano-code on code.brandonhubbard.com](https://code.brandonhubbard.com/astro-rehype-nano-code/)
 
 ---
 
